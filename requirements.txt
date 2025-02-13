@@ -1,0 +1,8 @@
+faiss-cpu==1.10.0
+numpy
+openai==1.62.0
+tiktoken==0.8.0
+python-dotenv
+langchain==0.3.18
+chromadb==0.6.3
+streamlit
