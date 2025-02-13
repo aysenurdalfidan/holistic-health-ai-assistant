@@ -10,13 +10,13 @@ This application provides structured and scientifically accurate insights into h
 
 ---
 
-## Screenshot
-![Holistic Health Assistant Screenshot](screenshot.png)
+## Live Demo
+Try the app online: [Streamlit Cloud Deployment](https://holistic-health-ai-assistant-by3uxyrpecdwbk9svpmqtt.streamlit.app/)
 
 ---
 
-## Live Demo
-Try the app online: [Streamlit Cloud Deployment](https://holistic-health-ai-assistant-by3uxyrpecdwbk9svpmqtt.streamlit.app/)
+## Screenshot
+![Holistic Health Assistant Screenshot](screenshot.png)
 
 ---
 
